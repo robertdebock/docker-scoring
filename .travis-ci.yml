@@ -1,0 +1,8 @@
+services:
+  - docker
+
+install:
+  - docker tag $(docker build . -q) scoring
+
+script:
+  - docker run scoring
