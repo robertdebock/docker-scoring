@@ -18,7 +18,7 @@ This means:
 - Knowledge on Docker is varying from low (1) to higher (5).
 - Knowlege on HTML is pretty high.
 
-## LIMITATIONS
+### LIMITATIONS ON INPUT
 Please make sure:
 - Every line starts with a "technology".
 - There are at least two lines.
