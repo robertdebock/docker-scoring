@@ -31,7 +31,7 @@ More samples make a more interesting result, I would suggest listing seven or
 more technologies, and four or more scores/people.
 
 ## ANALYSE
-You can hook up a commit to CI, travis-ci.yml has been provided.
+You can hook up a commit to CI, travis.yml has been provided.
 You can also manually run the scripts. Using Docker is the most logical:
      
     docker tag $(docker build . -q) scoring
