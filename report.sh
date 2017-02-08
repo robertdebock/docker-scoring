@@ -27,6 +27,6 @@ if [ "${lowest}" != "${lowmean}" ] ; then
   echo "The team may miss some knowledge about ${lowest}."
 fi
 
-if [ "${least}" != "${most}" ] ; then
+if [ "${least}" != "${most}" -a "${least}" != "${lowest}" ] ; then
   echo "Not everybody in the team has knowledge on ${least}."
 fi
