@@ -1,10 +1,10 @@
-Satellite 5 3 2 1 2 1 3 1
-Packaging 5 2 3 2 5 2 3 2
-Puppet    1 1 2 2 3 3 2 2
-Ansible   5 3 1 5 2 1 1 3
-Packer    5 1 1 3 1 1
-Docker    3 3 1 5 3 1 3 5
-Jenkins   3 3 2 5 3 2 1 5
-GitlabCI  3 2 2 5 3 2 1 5
-Git       5 3 3 5 3 2 1 5
-Python    1 3 1 2 1 1 2 2
+Satellite 5 3 2 1 2 1 3 1 4
+Packaging 5 2 3 2 5 2 3 2 4
+Puppet    1 1 2 2 3 3 2 2 4
+Ansible   5 3 1 5 2 1 1 3 2
+Packer    5 1 1 3 1 1 5
+Docker    3 3 1 5 3 1 3 5 5
+Jenkins   3 3 2 5 3 2 1 5 5
+GitlabCI  3 2 2 5 3 2 1 5 3
+Git       5 3 3 5 3 2 1 5 4
+Python    1 3 1 2 1 1 2 2 2
